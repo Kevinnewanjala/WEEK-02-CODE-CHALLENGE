@@ -5,7 +5,7 @@ Date 31st March 2024
 
 By Kevin Wafula
 
-# Array Generator
+# Swap Case
 
 ## Description
 This is a program that runs a function that accepts a string input and swaps the case of each character then gives an ouput of the resultant string. 
@@ -18,7 +18,7 @@ For instance, if a user inputs 'KEviN wAnjALa' the code runs and gives 'keVIn Wa
 
 This Javascript function accepts two numbers as input the generates an array between them.
 
-For example, if the two numbers are 4 and 9, the program runs then gives [4,5,6,7,8,9] as  oouput. 
+For example, if the two numbers are 4 and 9, the program runs then gives [4,5,6,7,8,9] as  output. 
 
 Similarly, if a user inputs -3 and 9 as the two numbers, the program gives [-3,-2,-1,0,1,2,3,4,5,6,7,8,9] as output.
 
